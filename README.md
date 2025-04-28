@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -21,6 +21,5 @@
 
     <!-- Gambar -->
     <img src="WhatsApp Image 2025-04-28 at 12.44.26.jpeg" alt="Gambar Profil" width="50%" height="50%">
-    <img src="images.png" alt="Gambar Lain" width="50%" height="50%">
 </body>
 </html>
